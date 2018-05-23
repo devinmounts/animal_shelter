@@ -28,3 +28,11 @@ p {
 img{
   width: 250px;
 }
+
+@media all and (max-width: 1000px){
+  body{background-color: coral;}
+}
+
+@media all and (max-width: 699px){
+  body{background-color: forestgreen;}
+}
