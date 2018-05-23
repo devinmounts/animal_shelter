@@ -15,6 +15,11 @@ p {
   text-align: center;
 }
 
+.columns p a{
+  text-decoration: underline;
+  font-family: cursive;
+}
+
 .columns .name{
   color: pink;
   font-weight: bolder;
@@ -22,10 +27,4 @@ p {
 
 img{
   width: 250px;
-
-}
-
-
-h3{
-  clear: left;
 }
